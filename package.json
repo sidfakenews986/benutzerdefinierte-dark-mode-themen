@@ -1,0 +1,14 @@
+{
+  "name": "benutzerdefinierte-dark-mode-themen",
+  "version": "1.0.0",
+  "description": "Ein einfaches Webanwendungstool, mit dem Benutzer ihre eigenen Dark Mode Themen erstellen und speichern können.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src/"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Ihr Name",
+  "license": "MIT"
+}
