@@ -9,6 +9,6 @@
   "dependencies": {
     "live-server": "^1.2.1"
   },
-  "author": "<Ihr Name hier>",
+  "author": "<Your Name Here>",  // Update placeholder to indicate the author name should be inserted here.
   "license": "MIT"
 }
