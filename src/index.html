@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benutzerdefinierte Dark Mode Themen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Dark Mode Themen Erstellen</h1>
+        <div class="palette">
+            <h2>Farbpalette</h2>
+            <input type="color" id="primary-color" value="#000000">
+            <input type="color" id="secondary-color" value="#ffffff">
+            <button id="save-theme">Thema Speichern</button>
+        </div>
+        <div id="saved-themes">
+            <h2>Gespeicherte Themen</h2>
+            <ul id="theme-list"></ul>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
